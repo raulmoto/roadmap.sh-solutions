@@ -3,7 +3,7 @@
 > El doc html usa estilo css en su estructurall
 
 # Enlace a mi repositorio
-[SencilloCV](http://https://github.com/raulmoto/CV "SencilloCV")
+[https://raulmoto.github.io/CV/](http://https://github.com/raulmoto/CV)
 
 
 ### Descargar el proyecto en mi equipo
