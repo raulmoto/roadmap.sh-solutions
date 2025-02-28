@@ -3,7 +3,7 @@
 > El doc html usa estilo css en su estructurall
 
 ## 📌 Solución al reto de Roadmap.sh
-https://github.com/raulmoto/roadmap.sh-solutions
+https://roadmap.sh/projects/single-page-cv
 
 ## 📌 Solución al reto de Roadmap.sh
 
