@@ -3,8 +3,8 @@
 > El doc html usa estilo css en su estructurall
 
 # Enlace a mi repositorio
-🌐[verCV](https://raulmoto.github.io/roadmap.sh-solutions/)
-📂 [Repositorio en GitHub](https://github.com/raulmoto/roadmap.sh-solutions)
+🌐[Basic HTML Website](https://raulmoto.github.io/roadmap.sh-solutions/)
+📂[Repositorio en GitHub](https://github.com/raulmoto/roadmap.sh-solutions)
 
 
 ### Descargar el proyecto en mi equipo
