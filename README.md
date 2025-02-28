@@ -7,7 +7,7 @@
 ## 📌 Solución al reto de Roadmap.sh
 
 Repositorio del proyecto:  
-🔗 [https://github.com/raulmoto/roadmap.sh-solutions](https://github.com/raulmoto/roadmap.sh-solutions)
+🔗 [project URL](https://github.com/raulmoto/roadmap.sh-solutions)
 
 
 
