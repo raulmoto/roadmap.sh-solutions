@@ -4,11 +4,11 @@
 
 ## 📌 Solución al reto de Roadmap.sh
 
-Puedes ver la solución desplegada aquí:  
-🔗 [roadmap.sh-solutions](https://raulmoto.github.io/roadmap.sh-solutions/)
+## 📌 Solución al reto de Roadmap.sh
 
-También puedes ver el código fuente en GitHub:  
-📂 [Repositorio en GitHub](https://github.com/raulmoto/roadmap.sh-solutions)
+Repositorio del proyecto:  
+🔗 [https://github.com/raulmoto/roadmap.sh-solutions](https://github.com/raulmoto/roadmap.sh-solutions)
+
 
 
 
