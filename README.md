@@ -4,7 +4,7 @@
 
 # Enlace a mi repositorio
 📂[my URL repository](https://github.com/raulmoto/roadmap.sh-solutions)
-🌐[Basic HTML Website](https://github.com/raulmoto/roadmap.sh-solutions)
+🌐[Basic HTML Website](https://raulmoto.github.io/roadmap.sh-solutions/)
 
 
 
@@ -23,7 +23,7 @@ git clone [url de este repositorio]
 </p>
 </p>
 <p align="left">
-  <a href='index.html'>
+  <a href='[index.html](https://raulmoto.github.io/roadmap.sh-solutions/)'>
     <img width="48%" src="./cv.png" />
   </a>
 </p>
