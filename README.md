@@ -35,7 +35,7 @@ Esto descargará el repositorio completo en tu equipo. También puedes copiar lo
     <img width="48%" src="./cv.png" alt="CV Preview">
   </a>
   <a href="https://raulmoto.github.io/roadmap.sh-solutions/basicHtmlEbsite/">
-    <img width="48%" src="./basic_site.png" alt="Basic Site Preview">
+    <img width="48%" src="./basicHtmlEbsite/src/img/portada.png" alt="Basic Site Preview">
   </a>
 </div>
 
