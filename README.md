@@ -1,35 +1,42 @@
-#CV
-> [!NOTE]
-> El doc html usa estilo css en su estructurall
+# 📄 CV
 
-## 📌 Solución al reto de Roadmap.sh
-https://roadmap.sh/projects/single-page-cv
+> **Nota:** El documento HTML usa estilos CSS en su estructura.
 
 ## 📌 Solución al reto de Roadmap.sh
 
-Repositorio del proyecto:  
-🔗 [project URL](https://github.com/raulmoto/roadmap.sh-solutions)
+🔗 [Página del reto](https://roadmap.sh/projects/single-page-cv)
 
+## 📌 Repositorio del proyecto
 
+- 🔗 [Repositorio en GitHub](https://github.com/raulmoto/roadmap.sh-solutions)
+- 🔗 [Basic Web Site](https://github.com/raulmoto/roadmap.sh-solutions/tree/main/basicHtmlEbsite)
 
+---
 
+## 🔽 Descargar el proyecto en tu equipo
 
-### Descargar el proyecto en mi equipo
+Asegúrate de tener instalado **Git Bash**, luego abre la terminal y ejecuta:
+
 ```bash
 git clone [url de este repositorio]
 ```
-<p>
-	Si desea desgaragra el proyecto en su repositorio, asegurate primero de tener instalado git bash, abra su terminas bash y ejecute
-	lo siguiente.
-</p>
 
-<p>
-	Con esto, se te decargará en el directorio, el respositorio entero. O simplemente puedes copiar los archivos uno a uno haciendo 
-	aun  mas lento el proceso.
-</p>
-</p>
-<p align="left">
-  <a href='[index.html](https://raulmoto.github.io/roadmap.sh-solutions/)'>
-    <img width="48%" src="./cv.png" />
+Esto descargará el repositorio completo en tu equipo. También puedes copiar los archivos manualmente, aunque es un proceso más lento.
+
+---
+
+## 🌍 Vista previa del proyecto
+
+
+
+
+<div align="center" style="display: flex; gap: 20px;">
+  <a href="https://raulmoto.github.io/roadmap.sh-solutions/">
+    <img width="48%" src="./cv.png" alt="CV Preview">
   </a>
-</p>
+  <a href="https://raulmoto.github.io/roadmap.sh-solutions/basicHtmlEbsite/">
+    <img width="48%" src="./basic_site.png" alt="Basic Site Preview">
+  </a>
+</div>
+
+---
