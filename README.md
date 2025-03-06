@@ -5,6 +5,7 @@
 ## 📌 Solución al reto de Roadmap.sh
 
 🔗 [Página del reto](https://roadmap.sh/projects/single-page-cv)
+🔗 [reto2](https://roadmap.sh/projects/basic-html-website)
 
 ## 📌 Repositorio del proyecto
 
