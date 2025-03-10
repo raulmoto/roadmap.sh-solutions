@@ -1,0 +1,77 @@
+/*Estructura generales**/
+
+/**seccion principal*/
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.aboutme{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: var(--colorPastel);
+}
+/**seccion reviews*/
+.reviews{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    text-align:start;
+}
+.reviews h2{
+    align-self: flex-start;
+}
+
+.reviews_cards{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+}
+/**Form*/
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px; 
+    height: 100vh;
+}
+.contact_hero{
+    height: 70vh;
+    padding: 35px;
+    width: 50%;
+    display: grid;
+    grid-template-columns: 100%;
+    border-radius: 3%;
+    border: 1px solid var(--colorPastel3);  
+}
+.contact_hero input{
+    height: 40px;
+    padding-left: 10px; 
+}
+
+/**@media*/
+@media(max-width:768px){
+    .aboutme{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .aboutme__Projects{
+        width: 100%;
+    }
+    .aboutme__experience{
+        width: 100%;
+    }
+    .aboutme__education{
+        width: 100%;
+    }
+    .contact_hero{
+        width: 100%;
+    }
+}

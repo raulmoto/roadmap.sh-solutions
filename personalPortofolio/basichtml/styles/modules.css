@@ -1,0 +1,79 @@
+/*components reutilizables**/
+/*Cards**/
+.card{
+    border-radius: 8%;
+    width: 25%;
+    box-shadow: 4px 4px var(--colorPastel3);
+}
+.card strong, em{
+    color: rgb(147, 148, 149);
+}
+.navbar{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: var(--colorPastel);
+}
+
+/**botones de navegacion*/
+.navbar__menu{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    gap: 20px;
+    text-decoration: none;
+}
+.navbar__menu a{
+    text-decoration: none;
+    color: var(--colorMaron);
+}
+.navbar__logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+/**tamño del logo*/
+.navbar__logo img{
+    height: 60px;
+    width: 60px;
+}
+.copyright{
+    width: 100%;
+    background-color: var(--colorPastel);
+}
+/**btn form*/
+.contact_btn{
+    height: 40px;
+    background-color: var(--colorPastel);
+}
+/**@media*/
+@media(max-width:768px){
+    /*reviews*/
+    .card{
+        width: 70%;
+    }
+    /*cambiamos a flex para poder aplicarle la propiedad wrap*/
+    .navbar{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    /*la parte que contiene el logo con el ombre hacemos que ocume el bloque entero*/
+    .navbar__logo {
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .navbar__logo p{
+        width: 100%;
+        text-align: center;
+    }
+    .navbar__menu{
+        padding: 0;
+        margin: 0%;
+        width: 100%;
+        justify-content: center;
+    }  
+}

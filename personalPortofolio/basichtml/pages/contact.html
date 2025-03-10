@@ -1,0 +1,51 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Basic-html-website</title>
+        <link rel="stylesheet" href="../styles/base.css">
+        <link rel="stylesheet" href="../styles/layout.css?v=2">
+        <link rel="stylesheet" href="../styles/modules.css?v=2">
+        <link rel="stylesheet" href="../styles/theme.css">
+
+        <!--SEO-->
+        <meta name="description" content="Simple web site">
+        <meta name="author" content="Raul Moto Buambo">
+        <!--Open graph-->
+        <meta property="og:title" content="estructura sencilla html">
+        <meta property="og:description" content="una plantilla html basica y bien estructurada">
+        <meta property="og:img" content="./src/img/portada.png" >
+    </head>
+    <body>
+        <header>
+            <!-- espacio para el navbar-->
+            <nav class="navbar">
+                <!--para imagen y nombre-->
+                <div class="navbar__logo">
+                    <img src="../src/img/logo2.png" alt="imgen o logo">
+                    <p>your name</p>
+                </div>
+                <!-- para botones de navegacion-->
+                <ul class="navbar__menu">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="./projects.html">Projects</a></li>
+                    <li><a href="./articles.html">Articles</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>   
+        </header>
+    
+        <section class="contact">
+            <form class="contact_hero" action="#" method="post">
+                <legend class="contact_label">Contact us!</legend>
+                <label for="campo1">Nombre</label>
+                <input type="text" placeholder="nombre" required name="nombre">
+                <label for="campo2">Apellido</label>
+                <input type="text" placeholder="apellido" name="apellido">
+                <label for="campo3">@mail</label>
+                <input type="email" placeholder="@mail" name="mail">
+                <button type="submit" class="contact_btn">Enviar</button>
+            </form>
+        </section>
+    </body>
+</html>
