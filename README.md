@@ -39,7 +39,7 @@ Esto descargará el repositorio completo en tu equipo. También puedes copiar lo
   <a href="https://github.com/raulmoto/roadmap.sh-solutions/blob/main/index.html">
     <img width="18%"  height="4%"" src="./basicHtmlEbsite/src/img/portada.png" alt="Basic Site Preview">
   </a>
-  <a href="https://github.com/raulmoto/roadmap.sh-solutions/tree/main/personalPortofolio">
+  <a href="https://github.com/raulmoto/roadmap.sh-solutions/blob/main/personalPortofolio/basichtml/index.html">
     <img width="18%"  height="4%"" src="https://github.com/raulmoto/roadmap.sh-solutions/blob/main/image.png" alt="portofolio">
   </a>
 </div>
