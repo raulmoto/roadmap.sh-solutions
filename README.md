@@ -11,6 +11,7 @@
 
 - 🔗 [Repositorio en GitHub](https://github.com/raulmoto/roadmap.sh-solutions)
 - 🔗 [Basic Web Site](https://github.com/raulmoto/roadmap.sh-solutions/tree/main/basicHtmlEbsite)
+- 🔗 [personal-portofolio](https://roadmap.sh/projects/portfolio-website)
 
 ---
 
@@ -35,8 +36,11 @@ Esto descargará el repositorio completo en tu equipo. También puedes copiar lo
   <a href="https://raulmoto.github.io/roadmap.sh-solutions/">
     <img width="28%" src="./cv.png" alt="CV Preview">
   </a>
-  <a href="https://raulmoto.github.io/roadmap.sh-solutions/basicHtmlEbsite/">
+  <a href="https://github.com/raulmoto/roadmap.sh-solutions/blob/main/index.html">
     <img width="18%"  height="4%"" src="./basicHtmlEbsite/src/img/portada.png" alt="Basic Site Preview">
+  </a>
+  <a href="https://github.com/raulmoto/roadmap.sh-solutions/blob/main/personalPortofolio/basichtml/index.html">
+    <img width="18%"  height="4%"" src="https://github.com/raulmoto/roadmap.sh-solutions/blob/main/image.png" alt="portofolio">
   </a>
 </div>
 
