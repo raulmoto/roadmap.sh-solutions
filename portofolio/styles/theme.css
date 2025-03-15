@@ -1,0 +1,15 @@
+/*Themes.css*/
+:root{
+    --primary-color: bisque;
+    --colorBase:rgb(255, 254, 252);
+    --colorMaron:rgb(70, 47, 2);
+    /*pastel---------*/
+    --colorPastel:#F2E2B1;
+    --colorPastel2:#D5C7A3;
+    --colorPastel3:#BDB395;
+}
+@media(prefers-color-schema:dark){
+    body{
+        background-color: #BDB395;
+    }
+}

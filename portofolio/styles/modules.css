@@ -1,0 +1,129 @@
+/*components reutilizables**/
+/*Cards**/
+.card{
+    border-radius: 8%;
+    width: 25%;
+    box-shadow: 4px 4px var(--colorPastel3);
+}
+.card strong, em{
+    color: rgb(147, 148, 149);
+}
+.navbar{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: var(--colorPastel);
+}
+/**barra de progreso*/
+.changelog{
+    text-align: center;
+}
+.lineaDeTiempo {
+    list-style: none;
+    padding: 0;
+    margin: 2rem auto;
+    width: 80%;
+    position: relative;
+    border: solid  var(--colorPastel2) 1px;
+}
+.lineaDeTiempo::before{
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 0;
+    height: 100%;
+    width: 3px;
+    background: black;
+    transform: translateX(-50%);
+}
+.lineaDeTiempo li{
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    position: relative;
+    gap: 1rem;
+    padding: 1rem 0;
+
+}
+.lineaDeTiempo .date{
+    text-align: right;
+    color: rgb(126, 128, 128);
+}
+.lineaDeTiempo p{
+    text-align: left;
+    margin: 0;
+}
+.circulo{
+    width: 12px;
+    height: 12px;
+    background:black;
+    border-radius: 50%;
+}
+
+/**botones de navegacion*/
+.navbar__menu{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    gap: 20px;
+    text-decoration: none;
+}
+.navbar__menu a{
+    text-decoration: none;
+    color: var(--colorMaron);
+}
+.navbar__logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+/**tamño del logo*/
+.navbar__logo img{
+    height: 60px;
+    width: 60px;
+}
+.copyright{
+    width: 100%;
+    background-color: var(--colorPastel);
+}
+/**btn form*/
+.contact_btn{
+    height: 40px;
+    background-color: var(--colorPastel);
+}
+.btn{
+    height: 40px;
+    border-radius: 12px;
+    background: var(--colorPastel);
+}
+/**@media*/
+@media(max-width:768px){
+    /*reviews*/
+    .card{
+        width: 70%;
+    }
+    /*cambiamos a flex para poder aplicarle la propiedad wrap*/
+    .navbar{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    /*la parte que contiene el logo con el ombre hacemos que ocume el bloque entero*/
+    .navbar__logo {
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .navbar__logo p{
+        width: 100%;
+        text-align: center;
+    }
+    .navbar__menu{
+        padding: 0;
+        margin: 0%;
+        width: 100%;
+        justify-content: center;
+    }  
+}
