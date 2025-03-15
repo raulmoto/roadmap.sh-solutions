@@ -12,6 +12,7 @@
 - 🔗 [Repositorio en GitHub](https://github.com/raulmoto/roadmap.sh-solutions)
 - 🔗 [Basic Web Site](https://github.com/raulmoto/roadmap.sh-solutions/tree/main/basicHtmlEbsite)
 - 🔗 [personal-portofolio](https://roadmap.sh/projects/portfolio-website)
+- 🔗 [Change log componet](https://roadmap.sh/projects/changelog-component)
 
 ---
 
